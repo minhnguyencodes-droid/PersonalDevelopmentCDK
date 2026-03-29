@@ -1,0 +1,25 @@
+{
+  "name": "personaldevelopmentcdk",
+  "version": "1.0.0",
+  "description": "CDK to deploy instances for local development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-cdk-lib": "^2.245.0",
+    "constructs": "^10.6.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.5.0",
+    "aws-cdk": "^2.1114.1",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}

@@ -1,0 +1,1 @@
+source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
